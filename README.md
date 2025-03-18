@@ -1,4 +1,6 @@
-# Curso GRATUITO de Laravel 11.x
+# PARA FINS EDUCATIVOS, ESTE É MEU REPOSITÓRIO DE ESTUDOS DE LARAVEL!
+
+## Curso GRATUITO de Laravel 11.x
 
 - :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-11-completo-e-gratuito).
 
